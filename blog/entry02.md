@@ -1,5 +1,7 @@
 # Entry 2
-##### X/X/XX
+##### Luca Herron
+
+##### 11/4/24
 
 Text
 
