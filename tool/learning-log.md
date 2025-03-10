@@ -6,7 +6,7 @@
 
 ### 3/9/25:
 * I learned how to insert a Skybox
-** drankdrankdrank
+  * I can use `a-sky` to create a 
 
 ### X/X/XX:
 * Text
