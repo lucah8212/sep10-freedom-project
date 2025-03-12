@@ -7,7 +7,7 @@ It's been a bit since I have wrote about my freedom project, and that is on me, 
 
 ## Learning and tinkering with A-Frame
 
-When it comes to actually learning the tool, my comprehension of how to work A-Frame mainly came from videos. In total, I have so far watched four videos on different aspects of A-Frame, such as **Lighting** and **Skybox**.
+When it comes to actually learning the tool, my comprehension of how to work A-Frame mainly came from videos. In total, I have so far watched four videos on different aspects of A-Frame, such as **Lighting** and **Skybox**. Examples of these were videos such as [What is A-Frame?](https://www.youtube.com/watch?v=ktjMCanKNLk) and [A-Frame Tutorial: Basic Lighting](https://www.youtube.com/watch?v=9soV6wZsg40). 
 
 
 
