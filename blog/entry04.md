@@ -13,8 +13,23 @@ When it comes to actually learning the tool, my comprehension of how to work A-F
      <a-camera position='0 0 3' user-height='0'></a-camera>
      <a-light type="directional" color="blue" position="1 1 0"></a-light>
 ````
-This resulted in a ![hello](
+This is what the result looks like:
+<br>
+<br>
+<img src="knot.png" alt="hello" width='300'>
+<br>
+<br>
+In another instance, I did the same thing that would center the knot, but with a new sunset background (skybox) being in the frame.
+````html
+    <a-torus-knot height="2" width="2"></a-torus-knot>
+    <a-camera position='0 0 2.5' user-height='0'></a-camera>
+    <a-sky src="sunset-lonely-street.jpg"></a-sky>
+````
+The experience of learning about A-Frame was great and it opens up a whole new world of what you can make in HTML, especially with everything running basically behind the scenes. 
 
+## Skills
+
+The first skill I have learned along this part of the journey was **
 
 [Previous](entry03.md) | [Next](entry05.md)
 
