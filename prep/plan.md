@@ -18,7 +18,7 @@
 
 #### MVP
 
-* Task/Timeline
+* Write content for webpage 5/1
 
 ---
 
