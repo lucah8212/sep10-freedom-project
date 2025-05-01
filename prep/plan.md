@@ -1,14 +1,18 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/Ok1Tl5)
+* [Desktop](https://wireframe.cc/Uqm9pe)
 
 ## Colors
-* `#ABC123`
+* `#FFFFFF
+* `#009D30
+* `#B3B3B3
+* `#000000
 
 ## Fonts
-* [Text](URL)
+* [Georama](https://fonts.google.com/specimen/Georama)
+* [Cal Sans](https://fonts.google.com/specimen/Cal+Sans)
 
 ## Timeline
 
