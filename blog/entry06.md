@@ -1,7 +1,9 @@
 # Entry 6
-##### X/X/XX
+##### 5/12/25
 
-Text
+# Context
+
+Im not writing this rn ngl
 
 [Previous](entry05.md) | [Next](entry07.md)
 
