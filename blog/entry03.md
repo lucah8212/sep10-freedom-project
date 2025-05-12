@@ -1,4 +1,4 @@
-# Entry 3
+ # Entry 3
 ##### X/X/XX
 
 Text
