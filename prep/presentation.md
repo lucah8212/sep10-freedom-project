@@ -1,16 +1,25 @@
 # Presentation Plan
 
 ## Hook
-* 
+* ask the reader a question: when you are enroute somewhere, have you ever wished you could view the world in front of you like a gps?
 
 ## Product
-* 
+* a-frame embed (if thats possible. if not, then a photo of the a-frame embed.) that gives a visual of the glasses
 
 ## Process
-* 
+* Code snippets that display
+  * how you're able to move around in my a-frame scene
+  * how my accordion for part a info stays open
+* Verbal description of how I gathered knowledge
+  * thumbnails of 2 youtube videos I watched, brief bullet point list of what each video told me
+  * bootstrap & a-frame documents
+* Wireframes
 
 ## Conclusion
-* 
+* url to the project
+* takeaways
+  1. Stay up to date with the class: Falling behind in the Freedom Project proposed a major challenge for me, where I didn't submit an MVP on time because I didn't do my Part B in S1 and was unable to recieve peer feedback.
+  2. Focus on the content first: Spend less time worrying about the specific deign of something, such as designing a clean navbar, and focus on getting content onto the webpage first.
 
 <!-- EXAMPLE
 

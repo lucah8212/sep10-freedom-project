@@ -6,7 +6,7 @@
 
 ## Colors
 * `#FFFFFF
-* `#009D30
+* `#007e27
 * `#B3B3B3
 * `#000000
 
@@ -19,12 +19,13 @@
 #### MVP
 
 * Write content for webpage 5/1
+* A-frame embed 5/12
 
 ---
 
 #### Beyond MVP
 
-* Task
+* unable to do since im behind
 
 
 
