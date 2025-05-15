@@ -6,11 +6,11 @@ I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering P
 
 For my project, I chose the topic of **Aviation**. 
 
-I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **Aviation** in order to help me make my website.
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A-Frame** in order to help me make my website.
 
 ## Links
 
-[Product]()
+[Product](lucah8212.github.io/sep10-freedom-project)
 
 [Presentation]()
 
