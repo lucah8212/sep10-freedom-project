@@ -32,7 +32,7 @@
                 <a class="nav-link" href="#">About</a>
               </li>
             <form class="d-flex" role="button">
-              <button class="btn btn-outline-success" type="submit">Purchase</button>
+              <button class="btn btn-outline-success" type="submit">Join Newsletter</button>
             </form>
           </div>
         </div>
@@ -43,62 +43,61 @@
 
       <div class="container">
         <div class="row">
-          <div style="border:3px solid black" class="col-5">
-            <a-scene embedded>
+          <div class="col-xl-5 col-lg-3">
+              <a-scene embedded>
 
-     <a-entity camera="" position="" wasd-controls="" rotation="" look-controls="" aframe-injected="" geometry="" material="" hide-on-enter-ar=""></a-entity>
-
-
-      <!-- left lens -->
-      <a-torus
-        position="-0.7 1.6 -3"
-        rotation="90 0 0"
-        radius="0.3"
-        radius-tubular="0.05"
-        color="#000000">
-      </a-torus>
-
-      <!-- right lens -->
-      <a-torus
-        position="0.7 1.6 -3"
-        rotation="90 0 0"
-        radius="0.3"
-        radius-tubular="0.05"
-        color="#000000">
-      </a-torus>
-
-      <!-- bridge -->
-      <a-cylinder
-        position="0 1.6 -3"
-        rotation="0 0 90"
-        radius="0.025"
-        height="0.4"
-        color="#000000">
-      </a-cylinder>
-
-      <!-- left arm -->
-      <a-box
-        position="-1.1 1.6 -2.6"
-        rotation="0 30 0"
-        width="0.05"
-        height="0.05"
-        depth="1"
-        color="#000000">
-      </a-box>
-
-      <!-- right arm -->
-      <a-box
-        position="1.1 1.6 -2.6"
-        rotation="0 -30 0"
-        width="0.05"
-        height="0.05"
-        depth="1"
-        color="#000000">
-      </a-box>
-    </a-scene>
+              <a-entity camera="" position="" wasd-controls="" rotation="" look-controls="" aframe-injected="" geometry="" material="" hide-on-enter-ar=""></a-entity>
 
 
+              <!-- left lens -->
+              <a-torus
+                position="-0.7 1.6 -3"
+                rotation="90 0 0"
+                radius="0.3"
+                radius-tubular="0.05"
+                color="#000000">
+              </a-torus>
+
+              <!-- right lens -->
+              <a-torus
+                position="0.7 1.6 -3"
+                rotation="90 0 0"
+                radius="0.3"
+                radius-tubular="0.05"
+                color="#000000">
+              </a-torus>
+
+              <!-- bridge -->
+              <a-cylinder
+                position="0 1.6 -3"
+                rotation="0 0 90"
+                radius="0.025"
+                height="0.4"
+                color="#000000">
+              </a-cylinder>
+
+              <!-- left arm -->
+              <a-box
+                position="-1.1 1.6 -2.6"
+                rotation="0 30 0"
+                width="0.05"
+                height="0.05"
+                depth="1"
+                color="#000000">
+              </a-box>
+
+              <!-- right arm -->
+              <a-box
+                position="1.1 1.6 -2.6"
+                rotation="0 -30 0"
+                width="0.05"
+                height="0.05"
+                depth="1"
+                color="#000000">
+              </a-box>
+            </a-scene>
           </div>
+
           <div style="border:5px solid black" class="col col-md-1">
             <p> hi</p>
           </div>
@@ -117,10 +116,11 @@
               <p>Concept somewhat based on Tony Stark's "Jarvis", including a built-in assistant capable of displaying important information right in front of your eyes</p>
             </div>
           </div>
+          </div>
         </div>
-        </div>
+      </div>
 
-        <div class="container"></div>
+        <div class="container-fluid"></div>
 
         <div class="pricing">
           <h1> Pricing </h1>
@@ -137,7 +137,7 @@
                   <h5 style="text-align: center; padding-bottom:15px" class="card-title">PilotVision Glasses</h5>
                   <p class="card-text">Crafted by PilotVision, scientifically engineered holographic laser lenses which provide an advanced flying experience</p>
                   <h2 style="text-align: center; padding-bottom:15px" class="card-text">$1500</h2>
-                  <a href="#" style="font-family:Georama;" class="btn btn-primary">Join Waitlist</a>
+                  <button id="buttons" class="btn btn-primary">Available in Future</a>
                 </div>
               </div>
             </div>
@@ -146,13 +146,11 @@
 
           <br>
 
-          <div class="container">
+           <div class="container">
             <div class="context">
               <h2 style="color:black">Airplanes and aerospace can be debated as one of the most important inventions ever in human history, allowing citizens to travel to parts of the world at quicker speeds, compared to when boats were used before..</h2>
               <br>
-              <a id="buttons" href="parta.html" type="button" class="btn btn-primary btn-lg"
-                    style="btn-font-size:0.2rem"
-                  >See where the Vision came from</a>
+              <a id="buttons" href="parta.html" type="button" class="btn btn-primary btn-lg">See where the Vision came from</a>
             </div>
           </div>
 
