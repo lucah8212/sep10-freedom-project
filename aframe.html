@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene background="color: #dacfb7">
+      <a-entity camera wasd-controls look-controls position="0 1.6 5"></a-entity>
+
+      <!--left frame -->
+      <a-box position="-0.7 1.75 -3" width="0.62" height="0.03" depth="0.05" color="#000000"></a-box>
+      <a-box position="-0.7 1.45 -3" width="0.62" height="0.03" depth="0.05" color="#000000"></a-box>
+      <a-box position="-1.0 1.6 -3" width="0.02" height="0.3" depth="0.05" color="#000000"></a-box>
+      <a-box position="-0.4 1.6 -3" width="0.02" height="0.3" depth="0.05" color="#000000"></a-box>
+
+      <!-- right frame  -->
+      <a-box position="0.3 1.75 -3" width="0.62" height="0.03" depth="0.05" color="#000000"></a-box>
+      <a-box position="0.3 1.45 -3" width="0.62" height="0.03" depth="0.05" color="#000000"></a-box>
+      <a-box position="0 1.6 -3" width="0.02" height="0.3" depth="0.05" color="#000000"></a-box>
+      <a-box position="0.6 1.6 -3" width="0.02" height="0.3" depth="0.05" color="#000000"></a-box>
+
+      <!-- laser -->
+      <a-sphere
+        position="0.58 1.745 -3.03"
+        radius="0.02"
+        color="#00ff00"
+        emissive="#00ff00"
+        emissiveIntensity="10">
+      </a-sphere>
+
+      <a-light
+        type="point"
+        color="#00ff00"
+        intensity="10"
+        distance="1"
+        position="1.0 1.95 -3">
+      </a-light>
+
+      <!-- left lens -->
+      <a-box
+        position="-0.7 1.6 -2.975"
+        width="0.6"
+        height="0.28"
+        depth="0.01"
+        color="#000000"
+        opacity="0.4"
+        material="transparent: true">
+      </a-box>
+
+      <!-- right lens -->
+      <a-box
+        position="0.3 1.6 -2.975"
+        width="0.6"
+        height="0.28"
+        depth="0.01"
+        color="#000000"
+        opacity="0.4"
+        material="transparent: true">
+      </a-box>
+
+      <!-- bridge -->
+      <a-cylinder position="-0.2 1.6 -3" rotation="0 0 90" radius="0.015" height="0.4" color="#000000"></a-cylinder>
+
+      <!-- left arm -->
+      <a-box position="-1.0 1.7 -2.5" rotation="0 0 0" width="0.02" height="0.05" depth="1" color="#000000"></a-box>
+
+      <!-- right arm -->
+      <a-box position="0.6 1.7 -2.5" rotation="0 0 0" width="0.02" height="0.05" depth="1" color="#000000"></a-box>
+
+
+    </a-scene>
+  </body>
+</html>
