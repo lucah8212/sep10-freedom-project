@@ -37,12 +37,20 @@ p {
   color: #007e27;
  }
 
-.card {
-
+#georama {
+    font-family: "Georama";
 }
 
+#cal-sans {
+    font-family: "Cal Sans", sans-serif;
+}
 #buttons {
     background-color: #B3B3B3;
     border-color: #B3B3B3;
     font-family: "Cal Sans", sans-serif;
+}
+
+.photoglasses {
+    padding-top: 30px;
+    padding-bottom: 20px;
 }
