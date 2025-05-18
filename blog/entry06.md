@@ -42,6 +42,10 @@ This resulted in the embed of the A-Frame popping up, but the scene would never 
 
 This resulted in a clickable image, where it would lead to a seperate [A-Frame file](https://lucah8212.github.io/sep10-freedom-project/aframe.html).
 
+## EDP
+
+## Skills
+
 [Previous](entry05.md) | [Next](entry07.md)
 
 [Home](../README.md)
