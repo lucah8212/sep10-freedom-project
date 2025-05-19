@@ -44,7 +44,14 @@ This resulted in a clickable image, where it would lead to a seperate [A-Frame f
 
 ## EDP
 
+At this point in the Freedom Project, I am on steps 5 and 6 of the Engineering Design Process. Step 5 of the process is to create a prototype, which was done as explained above. I am also on the 6th step because this means to test and evaluate the prototype, which connects to me asking my peers for Glows and Grows.
+
 ## Skills
+
+One skill I learned at this part in the Freedom Project is **How to address a problem**. I learned this skill while addressing the problem about my A-Frame embed, along with other issues such as a non-working carousel and navbar. 
+
+Another skill that I learned during this journey in the Freedom Project was **How to compare**. The reason I say this is because while I was behind on my MVP, I was asking classmates for insight on their experience while making their MVP, such as how they maximized their time along with the way they organized their website.
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
