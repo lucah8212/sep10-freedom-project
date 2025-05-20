@@ -54,3 +54,35 @@ p {
     padding-top: 30px;
     padding-bottom: 20px;
 }
+
+
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-image: none;
+    background-color: black;
+    width: 2rem;
+    height: 2rem;
+    mask-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.5 0l-1 1 3 3-3 3 1 1 4-4-4-4z'/%3E%3C/svg%3E");
+    -webkit-mask-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M5.5 0l-1 1 3 3-3 3 1 1 4-4-4-4z'/%3E%3C/svg%3E");
+    mask-repeat: no-repeat;
+    mask-position: center;
+    mask-size: contain;
+  }
+
+  .carousel-control-prev-icon {
+    transform: rotate(180deg);
+  }
+
+
+  .custom-carousel {
+    max-width: 600px;
+    margin: 0 auto; /* center horizontally */
+    padding-bottom: 35px
+  }
+  .custom-carousel img {
+    height: 400px; /* adjust height as needed */
+    object-fit: cover;
+  }
+
+
+
