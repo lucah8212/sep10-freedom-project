@@ -31,6 +31,6 @@ The experience of learning about A-Frame was great and it opens up a whole new w
 
 One skill that I have learned along this part of the journey was **How to find a specific video**. I was able to learn this skill by narrowing my youtube searches to things that I actually wanted to learn about.
 
-[Previous](entry03.md) | [Next](entry05.md)
+[Previous](entry03.md) | [Next](entry06.md)
 
 [Home](../README.md)
