@@ -16,9 +16,12 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **A
 
 ## Implications
 ##### PROS
-* 
+* My invention, the **PilotVision Glasses**, assists pilots by displaying important information in front of their eyes, leading to less stress in a flying enviornment
+* Website is minimal and doesn't present the viewer with too much information, keeping it simple.
+  
 ##### CONS
-* 
+* The glasses could replace some important things in the cockpit that were developed by human beings, with jobs, such as the Heads-Up Display.
+* The glasses also have a Built-In Assistant, meaning the need for more than 2 pilots in a cockpit is uneccesary.
 
 
 ## Blog
