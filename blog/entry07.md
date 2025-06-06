@@ -1,8 +1,8 @@
 # Entry 7
-##### X/X/XX
+##### 6/6/25
 
-Text
 
-[Previous](entry06.md) | [Next](entry08.md)
+
+[Previous](entry06.md)
 
 [Home](../README.md)
